@@ -37,4 +37,3 @@ I'm focused on building practical expertise in cloud infrastructure, DevOps, aut
 LinkedIn: https://www.linkedin.com/in/samuel-okoh-b135333a0/
 
 
-[L
