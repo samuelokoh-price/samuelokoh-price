@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm Samuel Okoh
 
 Cloud & Junior DevOps Engineer focused on cloud infrastructure, automation, CI/CD, and reliable deployment workflows.
